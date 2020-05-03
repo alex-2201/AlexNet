@@ -1,0 +1,32 @@
+ALEXNET:
+  EPOCHS: 2
+  MINI_BATCH_SIZE: 128
+  LEARNING_RATE: 0.01
+  MOMENTUM: 0.9
+  WEIGHT_DECAY: 0.0005
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

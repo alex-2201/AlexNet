@@ -5,7 +5,7 @@ import time
 import matplotlib.pyplot as plt
 import torch
 import torch.backends.cudnn as cudnn
-from datasets.folder import trainloader, testloader
+from loading.folder import trainloader, testloader
 from model.alex_net import AlexNet
 from utils.parser import get_config
 

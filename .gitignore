@@ -3,3 +3,4 @@ data*
 .idea
 checkpoint
 ckpt*
+__pycache__*
